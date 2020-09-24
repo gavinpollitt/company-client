@@ -1,0 +1,5 @@
+server:
+  port: 8080 
+
+qservice:
+  url: http://localhost:8081/queueService
